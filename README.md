@@ -9,4 +9,4 @@ Fork or clone this repo
 git clone https://github.com/d3vkk/car-classification.git
 ```
 
-© 2021 Donald K • Under MIT License
+© 2021-present Donald K • Under MIT License
